@@ -1,7 +1,7 @@
 <br/>
 <p align="center">
-  <a href="https://github.com//ReadME-Generator">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  <a >
+    <img src="https://thumbs.dreamstime.com/b/luxury-music-logo-design-golden-shiny-musical-emblem-vector-illustration-luxury-music-logo-design-golden-shiny-musical-emblem-111618781.jpg" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Music Recommendation System and Genre Prediction</h3>
