@@ -7,7 +7,7 @@
   <h3 align="center">Music Recommendation System and Genre Prediction</h3>
 
   <p align="center">
-    <a href="https://github.com//ReadME-Generator"><strong>Explore the docs »</strong></a>
+    <a href="https://drive.google.com/file/d/19wmZr6Ht8axVNLmzNhDT_PAYpyxCQ2wq/view?usp=share_link"><strong>Explore the docs »</strong></a>
     <br/>
     <br/>
     <a href="https://github.com//ReadME-Generator/issues">Request Feature</a>
