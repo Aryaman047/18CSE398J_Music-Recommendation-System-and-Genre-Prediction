@@ -10,7 +10,7 @@
     <a href="https://drive.google.com/file/d/19wmZr6Ht8axVNLmzNhDT_PAYpyxCQ2wq/view?usp=share_link"><strong>Explore the docs »</strong></a>
     <br/>
     <br/>
-    <a href="https://github.com//ReadME-Generator/issues">Request Feature</a>
+    <a href="https://github.com/Aryaman047/18CSE398J_Music-Recommendation-System-and-Genre-Prediction/issues">Request Feature</a>
   </p>
 </p>
 
